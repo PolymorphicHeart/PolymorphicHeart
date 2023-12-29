@@ -1,1 +1,5 @@
-<h1>PolymorphicHeart</h1>
+<div align="center">
+    <br/>
+    <img src="img/logo.png">
+    <br/>
+</div>
